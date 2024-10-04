@@ -8,10 +8,15 @@ Welcome to the Travel Booking Management System! In today's fast-paced world of 
 **Database Components**:
 
 1)Customer Management: Comprehensive records of customers, including personal details and preferred modes of travel.
+
 2)Employee Management: Database for storing employee information, such as roles, departments, and salaries.
+
 3)Destination Information: Repository of destination details, including names, distances, and countries, essential for planning travel routes and itineraries.
+
 4)Transportation Options: Support for various modes of transportation, such as flights, trains, buses, cars, and cruises, along with scheduling and availability data.
+
 5)Payment Processing: Seamless payment processing capabilities, including different payment methods and transaction records.
+
 6)Booking Management: Facilitates the booking process, managing reservations, tracking booking statuses, and generating booking confirmations.
 
 **Implementation**:
